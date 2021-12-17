@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Motor_Driver_CAN_0.1-rescue)(type Legacy)(uri ${KIPRJMOD}/Motor_Driver_CAN_0.1-rescue.lib)(options "")(descr ""))
+  (lib (name Motor_Driver-rescue)(type Legacy)(uri ${KIPRJMOD}/Motor_Driver-rescue.lib)(options "")(descr ""))
+)
